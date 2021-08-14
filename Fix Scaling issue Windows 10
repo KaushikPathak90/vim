@@ -1,0 +1,1 @@
+Right click on gVim icon -> Properties -> Compatibility -> Change high DPI settings -> check box "Override high DPI scaling behavior" in the bottom of the dialog window and set "Scaling performed by:" to "System (Enhanced)"
